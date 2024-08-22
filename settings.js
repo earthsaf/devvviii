@@ -30,22 +30,22 @@ const { color } = require('./all/function')
 const version = require("@whiskeysockets/baileys/package.json").version
 //========== Setting Owner ==========//
 global.owner = "2349043544267"
-global.namaowner = "anggazyydeveloper"
-global.namaowner2 = "AnggazyyDev"
+global.namaowner = "milkydoughnuts"
+global.namaowner2 = "milkydoughnuts"
 
 //======== Setting Bot & Link ========//
 global.namabot = "Devil 4.0 Gen 1" 
 global.botname = "Devil 4.0 Gen 1"
 global.namabot2 = "Devil 4.0 Gen 1"
 global.version = "Devil 4.0 Gen 1"
-global.foother = "Devil 4.0 Gen 1 © Anggazyy"
+global.foother = "Devil 4.0 Gen 1 © sweetdoughnuts"
 global.idsaluran = "120363301756685796@newsletter"
 global.linkgc = 'https://whatsapp.com/channel/0029VakZidSIXnlmikWIgS1z'
 global.linksaluran = "https://whatsapp.com/channel/0029Vaj6zL25PO12CFbyWX1Q"
 global.linkyt = 'https://youtube.com/@anggazyyzxyy?si=ojas1NHwYj6lmI_M'
 global.linktele = "https://t.me/relzzganteng"
-global.packname = "Created By Devil 4.0 Gen 1"
-global.author = "AnggazyyDev"
+global.packname = "Created By milkydoughnuts"
+global.author = "milky"
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 
 //========== Setting Event ==========//
@@ -112,13 +112,13 @@ global.tld4 = "panellstore.net";
 global.msg = {
 "error": "Error! terjadi kesalahan.",
 "done": "Donee, ~ Oke desuuu.", 
-"wait": "Please wait a minute bot being proses.", 
-"group": "*• Group Only* Fitur Ini Hanya Untuk Di Dalam Grup!", 
-"private": "*• Private Chat* Fitur Ini Hanya Untuk Didalam Private Chat!", 
-"anggazyyprem": "*~ Devil System:*\n\n- Khusus user premium sayang.",
-"admin": "*• Admin Only* Fitur Ini Hanya Untuk Admin Grup!", 
-"adminbot": "*• Bot Admin* Fitur Ini Dapat Digunakan Ketika Bot Menjadi Admin", 
-"owner": "*Khusus owner sayang*", 
+"wait": "Oya relax cooking hot bug.", 
+"group": "*• Group Only* Try join group!", 
+"private": "*• Private Chat* Go use am for person dm!", 
+"anggazyyprem": "*~ Devil System:*\n\n- You no be milkydoughnuts Ozwor.",
+"admin": "*• Admin Only* Ozwor you no be admin!", 
+"adminbot": "*• Bot Admin* I gats be admin.", 
+"owner": "*You no be milkydoughnuts*", 
 "developer": "*• Developer Only* Fitur Ini Hanya Untuk Developer"
 }
 
